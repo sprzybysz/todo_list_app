@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
-  "description": "TODO application built with MERN stack",
+  "description": "To-do application built with MERN stack",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
