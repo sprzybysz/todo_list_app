@@ -1,6 +1,6 @@
-# MERN Shopping List
+# TODO List App
 
-> Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
+> TODO List app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
 
 ## Quick Start
 
@@ -31,8 +31,7 @@ There is a Heroku post build script so that you do not have to compile your Reac
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+S.Przybysz
 
 ### Version
 
